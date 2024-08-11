@@ -1,4 +1,4 @@
-# Chess Player Statistics Project
+# Final Sprint (SD12 - First Semester) [Chess Player Statistics]
 
 ## Overview
 
